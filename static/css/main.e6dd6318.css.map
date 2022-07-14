@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e6dd6318.css","mappings":"AAAA,EACI,cAEJ,CAEA,QACI,0BAAkB,CAAlB,kBACJ","sources":["index.css"],"sourcesContent":["i{\n    cursor: pointer;\n\n}\n\ni:hover{\n    filter: invert(30%)\n}\n"],"names":[],"sourceRoot":""}
